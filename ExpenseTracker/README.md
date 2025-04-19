@@ -1,1 +1,1 @@
-Simple expense tracker with interactive UI
+Simple expense tracker with interactive UI. Built with JavaFX and SQLite 
